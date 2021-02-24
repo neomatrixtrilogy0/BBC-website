@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#topbar {
+    width: 1500px;
+    margin: 0 auto;
+    height: 30px;
+}
+#logo {
+    margin-top: 5px;
+    
+}
