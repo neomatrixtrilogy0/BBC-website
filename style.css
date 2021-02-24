@@ -1,13 +1,31 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
 }
 #topbar {
     width: 1500px;
     margin: 0 auto;
-    height: 30px;
+    height: 45px;
 }
 #logo {
-    margin-top: 5px;
-    
+    margin-top: 9px;
+    float: left;
+    margin-right: 9px;
+}
+.topbar-section {
+    float: left;
+    border-left: 1px#CCCCCC solid;
+    height: 100%;
+}
+#signinImage {
+    width: 25px;
+    margin: 9px 15px;
+    float: left;
+}
+#signinText {
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 9px;
 }
