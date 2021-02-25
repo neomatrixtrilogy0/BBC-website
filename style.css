@@ -20,12 +20,40 @@ body {
 }
 #signinImage {
     width: 25px;
-    margin: 9px 15px;
+    margin: 13px 15px;
     float: left;
 }
 #signinText {
     float: left;
     font-weight: bold;
     font-size: 20px;
-    margin-top: 9px;
+    margin-top: 13px;
+    border-right: 1px#CCCCCC solid;
+    height: 35px;
+    padding-right: 20px;
+}
+.topbar-menu {
+    font-weight: bold;
+    font-size: 20px;
+    padding: 13px 15px 0 15px;
+    height: 35px;
+}
+#more-arrow {
+    width: 21px;
+    margin-left: 20px;
+}
+#searchbox {
+    background-color: #A9A9A9;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    margin: 5px 0px 5px 5px;
+    float: left;
+}
+#magnifying-glass {
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 0;
+    /* float: left; */
 }
